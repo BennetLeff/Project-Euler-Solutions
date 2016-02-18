@@ -1,7 +1,7 @@
 #################################################################
 ## https://en.wikipedia.org/wiki/Barycentric_coordinate_system ##
 ## #Conversion_between_barycentric_and_Cartesian_coordinates   ##
-## x = a * x1 + b * x2  + c * x3                               ##
+## x = a * x1 + b * x2 + c * x3                               ##
 ## y = a * y1 + b * y2 + c * y3                                ##
 ## a + b + c = 1                                               ##
 ## p lies in T if and only if 0 <= a, b, c <= 1                ##
